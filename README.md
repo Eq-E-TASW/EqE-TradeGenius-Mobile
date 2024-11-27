@@ -50,7 +50,7 @@ Si no desdeas desplegar el proyecto en local, puedes descargar la apk funcional 
 ### Video de Demostración despliegue local
 Para ver una demostración de cómo desplegar el Backend del proyecto en local, y cómo funcionan los endpoints, puedes acceder al siguiente video de presentación:
 
-💻💾 [**Ver Video Instalación y Demo**](https://www.youtube.com/)
+💻💾 [**Ver Video Instalación y Demo**](https://drive.google.com/file/d/1KhWVoM2A4DdYGpTR3WFjv3oJeZpyTxz7/view?usp=drive_link)
 
 ## Equipo E-2024-2:
 
